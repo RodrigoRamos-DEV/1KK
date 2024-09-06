@@ -1,0 +1,21 @@
+#quemsomos{
+  
+  width: 50vw;
+}
+
+.containerpj {
+   
+    margin-top: 5%;
+    display: grid;
+    place-items: center;
+
+  }
+  .txt{
+   
+    text-align: center;
+    
+}
+
+
+
+

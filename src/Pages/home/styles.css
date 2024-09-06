@@ -1,0 +1,14 @@
+body{
+    background-color: gray;
+}
+
+.container {
+    display: grid;
+    place-items: center;
+    height: 100vh; /* adjust the height to your needs */
+  }
+  
+  .imagem-centralizada {
+    max-width: 100%; /* make the image responsive */
+    height: auto;
+  }
