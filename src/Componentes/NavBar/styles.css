@@ -19,8 +19,7 @@
     margin: auto; /* add margin auto to center horizontally */
     display: grid;
     place-items: center;
-    background: linear-gradient(45deg, #ffd700, #fff); /* degradê dourado */
-    box-shadow: 0 0 10px rgba(255, 215, 0, 0.5); /* efeito vitral */
+    background: linear-gradient(45deg, #000000, #fff); /* degradê dourado */
     
   }
   
