@@ -5,12 +5,11 @@ import './projeto.css'
 const Projeto = () => {
   return (
     <>
-    <div className="containerpj">
-   
-          
-    <div class="row" id="quemsomos">
+      <div className="containerpj">
+        
+        <div class="row" id="quemsomos">
           <div class="row">
-            <div class="col-sm-12">
+            <div className="col-sm-12">
               <p class="txt">
                 Olá! Sou Rodrigo Ramos, e sou o fundador da "Página de 1KK". A ideia para este projeto surgiu da minha admiração por Alex Tew e sua criação icônica, 
                 o Million Dollar Homepage. Como você deve saber, Alex Tew transformou uma ideia simples em um fenômeno global, e sua visão inspiradora me levou a criar algo que 
@@ -32,10 +31,9 @@ const Projeto = () => {
                 Agradecemos por se juntar a nós nessa jornada. Esperamos que você se sinta tão inspirado quanto nós e descubra tudo o que podemos realizar juntos.
               </p>
             </div>
-            </div>
-            </div>
-     </div>
-      
+          </div>
+        </div>
+      </div>
     </>
   );
 };
